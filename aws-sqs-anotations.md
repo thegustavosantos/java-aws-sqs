@@ -1,9 +1,8 @@
 Amazon com SQS
 
 
-
-Livros: 
-    - 
+Links: 
+    SDK: https://aws.amazon.com/pt/developer/tools/
 
 Dúvidas:
     Dúvida sobre exclusão de mensagens
@@ -155,3 +154,13 @@ Aula 06: Vários Consumidores
         - Arquiteturas orientadas e eventos utilizam tópicos agressivamente, pois a funcionalidade de fan-out se aplica constantemente em sistemas de grande demanda.
         - O tópico nativo da AWS chama-se SNS.
         - No SNS, os tipos de inscrições disponíveis são, entre outros: endpoints HTTP, filas SQS e números para envio de SMS.
+
+==================================================================================================================================================================
+
+
+Aula 07: 
+
+    Nesta aula, aprendemos:
+        - A enviar, processar e excluir mensagens utilizando a aws-sdk para Node.js.
+        - Utilizar long polling para receber mensagens através da aws-sdk.
+        - Que a aws-sdk está disponível em várias linguagens de programação. A lista completa pode ser encontrada no site da AWS.
