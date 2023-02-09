@@ -18,9 +18,6 @@ public class MessageReceiver {
     public void receiveStringMessage(final String message,
                                      @Header("SenderId") String senderId) {
         log.info("message received {} {}",senderId,message);
-
-        sender.send("Mensagem 1 de envio testeeeeeeeeeeee");
-
     }
 
 

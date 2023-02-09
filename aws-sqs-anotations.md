@@ -1,6 +1,8 @@
 Amazon com SQS
 
 
+App example JAVA SPRING SQS: https://github.com/thombergs/code-examples/tree/master/aws/springcloudsqs
+
 Links: 
     SDK: https://aws.amazon.com/pt/developer/tools/
 
